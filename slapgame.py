@@ -5,7 +5,7 @@ import random
 import time
 
 #手の骨格検出モデルへのパス
-model_path = r"C:\OIT\media_python\media_python\media\dldata\hand_landmarker.task"
+model_path = "hand_landmarker.task"
 
 #各クラス名の省略
 BaseOptions = mp.tasks.BaseOptions
